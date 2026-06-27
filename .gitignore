@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+
+# learning 
+learning/
+
+# jsons
+*.json
+
+# api test
+api.http
+
+# outputs
+*.out
