@@ -5,7 +5,6 @@
 # └─ 127.0.0.1 ─┘ └6881┘
 
 from dataclasses import dataclass
-from turtle import up
 from bittorrent.bencode import BencodeDecodeError, decode
 
 from urllib.parse import quote_from_bytes # used to safely convert bytes into URL-encoded strings
