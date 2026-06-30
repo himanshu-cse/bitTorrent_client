@@ -28,3 +28,6 @@ api.http
 
 # outputs
 *.out
+
+# pytest cache
+.pytest_cache/
